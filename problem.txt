@@ -1,0 +1,8 @@
+All of the students in a school are to be lined up in rows for the St. Patrick's Day parade.
+If they line up in rows of 3 there is one left over.
+If they line up in rows of 4, two students are left over.
+If they line up in rows of 5, three students are left over.
+If they line up in rows of 6, four students are left over.
+If they line up in rows of 7, no one is left over.
+
+What is the smallest number of students which could be in the school?
